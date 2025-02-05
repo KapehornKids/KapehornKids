@@ -1,4 +1,8 @@
 ## Hi there 👋
+We are team
+# KapehornKids India
+We are an Indian Company made by Kids. We create websites, apps, dev tools, games, etc that you can and can't imagine. 
+Our first project is Kapenji Game Engine
 
 <!--
 **KapehornKids/KapehornKids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
